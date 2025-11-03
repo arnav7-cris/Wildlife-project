@@ -1,2 +1,2 @@
 # Wildlife-project
-Your project **“Wildlife Sighting Management System”** is a database-driven application that helps track and manage wildlife sightings across different locations. It allows users to record sightings, view species data, and automatically generate alerts for endangered species using triggers, all through a simple and interactive Streamlit dashboard.
+**“Wildlife Sighting Management System”** is used to record and track animals seen by forest rangers. It helps manage details like species, location, and date of sightings, and also shows alerts automatically when an endangered animal is spotted . This is all shown through an easy to use web page .
